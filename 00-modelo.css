@@ -295,7 +295,7 @@ body {
       .navbar, .navbar a, .navbar>div, .dropbtn {
         width:100%;
         float: none;
-        display:blockss;
+        display:block;
       }
         .dropdown-content a{
         display:none;
